@@ -1,0 +1,9 @@
+﻿CCT - Injeção de dependências concretas
+========================================
+
+- Como esse conhecimento te ajuda?
+  - evita um erro básico
+  - aprender a refatorar aos poucos
+  - reduzir o risco de gerar bugs em produção
+
+- Mostrar código

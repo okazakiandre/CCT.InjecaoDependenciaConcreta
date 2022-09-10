@@ -1,0 +1,21 @@
+﻿CCT - Injeção de dependências concretas
+========================================
+
+- Como esse conhecimento te ajuda?
+  - evita um erro básico
+  - aprender a refatorar aos poucos
+  - reduzir o risco de gerar bugs em produção
+
+- Mostrar código
+
+- Por que é um problema?
+  - acoplamento continua alto
+  - não dá para mockar a dependência
+  - às vezes não é só alterar para interface
+
+- Como resolver
+  - use interface (não é uma opção)
+  - refatorar ou não? depende...
+  - veja se há outras referências
+  - mantenha a retrocompatibilidade
+
